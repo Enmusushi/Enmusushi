@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Enmusushi
-- 👀 I’m interested in simle algorithms that gives me achievement feeling.
+- 👀 I’m interested in simple algorithms that gives me achievement feeling.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Email:1123816202@qq.com
